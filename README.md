@@ -1,8 +1,8 @@
 # App-Launcher-Sortcut
 
-# Creating App Shortcuts in Launcher
+# Creating  App Shortcuts in Launcher
 
-## Overview
+##  Overview
 
 Android 7.1 allows you to define shortcuts to specific actions in your app. These shortcuts can be displayed in a supported launcher. Shortcuts let your users quickly start tasks within your app:
 
